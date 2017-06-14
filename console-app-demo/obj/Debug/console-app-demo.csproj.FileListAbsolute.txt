@@ -1,0 +1,9 @@
+D:\Demos\console-app-demo\console-app-demo\bin\Debug\console-app-demo.exe.config
+D:\Demos\console-app-demo\console-app-demo\bin\Debug\console-app-demo.exe
+D:\Demos\console-app-demo\console-app-demo\bin\Debug\console-app-demo.pdb
+D:\Demos\console-app-demo\console-app-demo\obj\Debug\console-app-demo.csprojResolveAssemblyReference.cache
+D:\Demos\console-app-demo\console-app-demo\obj\Debug\console-app-demo.exe
+D:\Demos\console-app-demo\console-app-demo\obj\Debug\console-app-demo.pdb
+D:\Demos\demo-project\console-app-demo\bin\Debug\console-app-demo.exe.config
+D:\Demos\demo-project\console-app-demo\obj\Debug\console-app-demo.exe
+D:\Demos\demo-project\console-app-demo\obj\Debug\console-app-demo.pdb
